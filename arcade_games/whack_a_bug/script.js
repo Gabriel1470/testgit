@@ -5,7 +5,7 @@ scoreDisplay.innerText = score;
 
 // Inseriamo il timer iniziale
 const timerDisplay = document.querySelector('#timer-display');
-let timeLeft = 30;
+let timeLeft = 100;
 timerDisplay.innerText = timeLeft;
 
 // Inseriamo il bug in una cella via JS
